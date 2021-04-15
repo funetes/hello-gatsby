@@ -15,6 +15,8 @@ export default function Home() {
       <p>What a world.</p>
       <p>What a world.</p>
       <p>What a world.</p>
+      <p>What a world.</p>
+      <p>What a world.</p>
       <a href='intent://scan#Intent;scheme=itspartner;package=com.example.myapp;end'>visit</a>
     </div>
   )
